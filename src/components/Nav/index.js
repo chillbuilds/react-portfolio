@@ -4,17 +4,17 @@ import "./style.css";
 
 function Nav() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-      <a class="navbar-brand" href="/bots">
-        {/* <img src={image} width="40" height="40" alt=""></img> */}
-      </a>
-      <a className="navbar-brand" href="/newbot">
-        BattleBots
-      </a>
-      <a className="navbar-brand" href="/newmatch">
-        New Match
-      </a>
-    </nav>
+    <div>
+    <div class='navHeading'>
+    <div id='nav-title'>Will Wojeck</div><br />
+    <div id='nav-links'>
+      <div class='nav-link' id='bio'>Bio</div>
+      <div class='nav-link' id='projects'>Projects</div>
+      <div class='nav-link' id='resume'>Resume</div>
+      <div class='nav-link' id='contact'>Contact</div>
+    </div>
+    </div>
+    </div>
   );
 }
 
