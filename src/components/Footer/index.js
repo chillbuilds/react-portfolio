@@ -4,7 +4,9 @@ import "./style.css";
 
 function Footer() {
   return (
-      <p>footer stuff</p>
+      <div>
+        <div id='footer'></div>
+      </div>
   );
 }
 

@@ -1,12 +1,21 @@
 import React from "react";
-import { Col, Row, Container } from "../components/Grid";
+
+const pageMargins = {
+  marginTop: '5%',
+  marginLeft: '5%',
+  marginRight: '5%',
+  width: '80%',
+  background: 'rgba(0, 0, 0, 0.2)',
+  padding: '2% 5%',
+  borderRadius: '6px',
+  fontSize: '22px'
+};
 
 function Index() {
 
   return (
-    <Container fluid>
-      <Row>
-        <Col size='md-8'>
+    <div>
+      <div style={pageMargins}>
             <h1>Bio</h1>
             After a decade of wandering, unsatisfied from one career opportunity
             to the next I believe I'll be sitting tight with coding and
@@ -31,9 +40,8 @@ function Index() {
             software engineer, and enrolling in a coding bootcamp to solidify
             and expand the basics before treading into more advanced waters.<br /><br />
             In the meantime, let's make some stuff we're excited about.
-        </Col>
-      </Row>
-    </Container>
+      </div>
+    </div>
   );
 }
 
