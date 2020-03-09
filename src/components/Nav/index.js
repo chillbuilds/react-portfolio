@@ -5,14 +5,12 @@ import "./style.css";
 function Nav() {
   return (
     <div>
-    <div class='navHeading'>
     <div id='nav-title'>Will Wojeck</div><br />
     <div id='nav-links'>
-      <div class='nav-link' id='bio'>Bio</div>
-      <div class='nav-link' id='projects'>Projects</div>
-      <div class='nav-link' id='resume'>Resume</div>
-      <div class='nav-link' id='contact'>Contact</div>
-    </div>
+      <div class='nav-link' id='bio'><a href='/'>Bio</a></div>
+      <div class='nav-link' id='projects'><a href='/projects'>Projects</a></div>
+      <div class='nav-link' id='resume'><a href='/resume'>Resume</a></div>
+      <div class='nav-link' id='contact'><a href='/contact'>Contact</a></div>
     </div>
     </div>
   );

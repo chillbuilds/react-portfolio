@@ -9,22 +9,32 @@ body {
 }
 
 #nav-title {
-  float: left;
+  margin: 0% 0% 5% 5%;
   padding-bottom: 10px;
-  margin-top: 30px;
+  margin-bottom: 0px;
   font-size: 110px;
   font-weight: 500;
   color: #004e64;
 }
 
-.navHeading {
-  margin: 0% 0% 5% 5%;
+#nav-links {
+  font-size: 22px;
+  text-align: center;
 }
-
-
 
 .nav-link {
   position: relative;
   float: left;
-  width: 18%;
+  width: 25%;
+  border-radius: 4px;
+}
+
+.nav-link:hover {
+  background: rgba(0, 0, 0, .2);
+  transition: .5s;
+}
+
+a{
+  text-decoration: none;
+  color: #002c55;
 }
