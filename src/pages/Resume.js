@@ -3,15 +3,15 @@ import image from "../utils/images/Resume.png";
 import pdf from "../utils/Resume.pdf"
 
 const pageMargins = {
-  marginTop: '5%',
-  marginLeft: '5%',
-  marginRight: '5%',
-  width: '80%',
-  background: 'rgba(0, 0, 0, 0.2)',
-  padding: '2% 5%',
-  borderRadius: '6px',
-  fontSize: '22px'
-};
+    marginTop: '5%',
+    marginLeft: '15%',
+    marginRight: '15%',
+    width: '60%',
+    background: 'rgba(0, 0, 0, 0.2)',
+    padding: '2% 5%',
+    borderRadius: '6px',
+    fontSize: '22px'
+  }
 
 const pdfLink = {
     color: 'white',

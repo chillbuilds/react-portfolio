@@ -7,10 +7,10 @@ function Nav() {
     <div>
     <div id='nav-title'>Will Wojeck</div><br />
     <div id='nav-links'>
-      <div class='nav-link' id='bio'><a href='/'>Bio</a></div>
-      <div class='nav-link' id='projects'><a href='/projects'>Projects</a></div>
-      <div class='nav-link' id='resume'><a href='/resume'>Resume</a></div>
-      <div class='nav-link' id='contact'><a href='/contact'>Contact</a></div>
+      <div className='nav-link' id='bio'><a href='/'>Bio</a></div>
+      <div className='nav-link' id='projects'><a href='/projects'>Projects</a></div>
+      <div className='nav-link' id='resume'><a href='/resume'>Resume</a></div>
+      <div className='nav-link' id='contact'><a href='/contact'>Contact</a></div>
     </div>
     </div>
   );
