@@ -30,6 +30,7 @@ function Resume() {
   return (
     <div>
       <div style={pageMargins}>
+      <h1>Resume</h1>
       <a style={pdfLink} href={pdf} download={pdf}>download</a>
       <img src={image} style={imgStyle} alt=""></img>
       </div>
