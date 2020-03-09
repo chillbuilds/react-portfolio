@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be91ac31.chunk.css",
+    "main.js": "/static/js/main.04aaab3b.chunk.js",
+    "main.js.map": "/static/js/main.04aaab3b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8b054bcd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8b054bcd.js.map",
+    "static/js/2.69a8afa2.chunk.js": "/static/js/2.69a8afa2.chunk.js",
+    "static/js/2.69a8afa2.chunk.js.map": "/static/js/2.69a8afa2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9737fa1f9f4fa1584585cb0fdd2a8fa8.js": "/precache-manifest.9737fa1f9f4fa1584585cb0fdd2a8fa8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.be91ac31.chunk.css.map": "/static/css/main.be91ac31.chunk.css.map",
+    "static/js/2.69a8afa2.chunk.js.LICENSE.txt": "/static/js/2.69a8afa2.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/static/media/Resume.0992a2b0.pdf",
+    "static/media/Resume.png": "/static/media/Resume.a95ec222.png",
+    "static/media/bonez-beatz.JPG": "/static/media/bonez-beatz.ef547705.JPG",
+    "static/media/flintz-skins.png": "/static/media/flintz-skins.97b4228b.png",
+    "static/media/github.png": "/static/media/github.b3b4ee1c.png",
+    "static/media/nasa-api.JPG": "/static/media/nasa-api.6c5e0efa.JPG",
+    "static/media/note-taker.png": "/static/media/note-taker.88004197.png",
+    "static/media/password.JPG": "/static/media/password.e77f09ae.JPG",
+    "static/media/weather-app.JPG": "/static/media/weather-app.9fe94c1c.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b054bcd.js",
+    "static/js/2.69a8afa2.chunk.js",
+    "static/css/main.be91ac31.chunk.css",
+    "static/js/main.04aaab3b.chunk.js"
+  ]
+}
